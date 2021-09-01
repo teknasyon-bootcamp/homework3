@@ -1,4 +1,6 @@
- UML diyagramında yer alan Form sınıfını oluşturmanız beklenmekte.
+![uml](https://raw.githubusercontent.com/teknasyon-bootcamp/homework3/master/uml.png)
+
+UML diyagramında yer alan Form sınıfını oluşturmanız beklenmekte.
  
 Sınıf içerisinde static olmayan `fields`, `action` ve `method` özellikleri (property) olması gerekiyor.
 
