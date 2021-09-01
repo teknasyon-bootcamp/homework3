@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Ödev ile ilgili gerekli gelişmeyi form.php
+ * Ödev ile ilgili gerekli geliştirmeyi form.php
  * içerisinde yapmanız gerekiyor.
  */
 
